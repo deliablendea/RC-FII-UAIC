@@ -1,7 +1,7 @@
 Ex 01 - pipe():
 Scrieți un program în care se folosește un singur pipe pentru comunicare și în care:
 - tatăl scrie într-un pipe un număr;
-- fiul verifică  dacă numărul este prim și transmite prin pipe tatălui răspunsul (yes, no);
+- fiul verifică dacă numărul este prim și transmite prin pipe tatălui răspunsul (yes, no);
 - tatăl va afișa răspunsul primit.
 
 Ex 02 - fifo() & dup():
